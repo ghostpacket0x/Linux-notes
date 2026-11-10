@@ -33,7 +33,7 @@ Tip: check any command with `whatis <cmd>` or `man <cmd>`. Commands marked **(bu
 | `rmdir <folder>` | Deletes an empty folder | `rmdir empty-folder` |
 | `./script.sh` | Runs a script in the current folder. It needs permission first: `chmod +x script.sh` | `./script.sh` |
 
-## More navigation commands
+## More file commands
 
 | Command | What it does | Example |
 |---|---|---|
@@ -44,7 +44,7 @@ Tip: check any command with `whatis <cmd>` or `man <cmd>`. Commands marked **(bu
 | `whereis <command>` | Finds a command's program, source, and man page | `whereis ls` |
 | `ln -s <target> <link>` | Creates a symbolic link (a shortcut) to a file | `ln -s notes.txt link.txt` |
 | `locate <name>` | Finds files from a prebuilt database. Run `sudo updatedb` first if results are old | `locate notes.txt` |
-| `plocate` / `mlocate` | Modern versions of `locate`. They replaced the obsolete `slocate` | `plocate notes.txt` |
+| `plocate` / `mlocate` | Modern replacements for the older `locate`/`slocate` | `plocate notes.txt` |
 | `mmv` | Moves or renames many files using patterns. Install it first; `#1` means what the first `*` matched | `mmv "*.txt" "old_#1.txt"` |
 | `rename` | Renames files using a pattern. Syntax differs by distro (Perl version on Kali/Debian/Ubuntu, util-linux version on Fedora/RHEL) | `rename 's/old/new/' *.txt` |
 | `pathchk <name>` | Checks whether a file name is valid on the system (prints nothing if it is) | `pathchk "my file"` |
