@@ -1,6 +1,6 @@
 # Linux Notes
 
-Command line notes from my practice on Kali Linux. Each section has the command, what it does, and an example.
+Command line notes from my practice on Kali Linux. Each section has the command, what it does, and an example. Real output is taken from my own VM, with anything sensitive removed.
 
 ## Before you start
 
