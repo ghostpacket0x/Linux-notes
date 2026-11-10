@@ -21,3 +21,9 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 11. [Terminal multiplexing with tmux](sections/11-tmux.md)
 12. [Serving files over HTTP](sections/12-serving-files-over-http.md)
 13. [Troubleshooting log](sections/13-troubleshooting-log.md)
+14. [Shell builtins and keywords](sections/14-shell-builtins-and-keywords.md)
+15. [Printing and other tools](sections/15-printing-and-other-tools.md)
+
+## Practice
+ 
+Practice scenarios go in the [labs](labs/) folder.
