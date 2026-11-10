@@ -4,7 +4,17 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Before you start
 
-[Key words table and how to read the examples stay here]
+| Word | What it means |
+|---|---|
+| Terminal | The window where you type commands instead of clicking |
+| Command | An instruction you type and run by pressing Enter |
+| Directory | Another word for a folder |
+| Root | The all-powerful administrator account on Linux. Also the name of the top folder `/` |
+| `sudo` | Runs one command with administrator rights. Linux asks for your password |
+| PID | Process ID, the number Linux gives every running program |
+| Package | A piece of software you install with a package manager |
+| Service | A program that runs in the background and waits for requests, like SSH |
+| Port | A numbered door on a computer that a service listens on, like 22 for SSH |
 
 ## Table of contents
 
