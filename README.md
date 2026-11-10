@@ -4,6 +4,8 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Before you start
 
+### Key words
+
 | Word | What it means |
 |---|---|
 | Terminal | The window where you type commands instead of clicking |
