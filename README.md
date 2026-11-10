@@ -61,4 +61,4 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Practice
 
-Practice scenarios go in the [labs](labs/) folder.   
+Practice scenarios go in the [Labs](Labs/) folder.   
