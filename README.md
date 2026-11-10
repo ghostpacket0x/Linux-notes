@@ -11,7 +11,7 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 | Terminal | The window where you type commands instead of clicking |
 | Command | An instruction you type and run by pressing Enter |
 | Directory | Another word for a folder |
-| Root | The all-powerful administrator account on Linux. Also the name of the top folder `/` |
+| Root | The all-powerful administrator account on Linux. Also the name of the top-level directory `/` |
 | `sudo` | Runs one command with administrator rights. Linux asks for your password |
 | PID | Process ID, the number Linux gives every running program |
 | Package | A piece of software you install with a package manager |
@@ -19,7 +19,7 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 | Port | A numbered door on a computer that a service listens on, like 22 for SSH |
 
 ### How to read the examples
- 
+
 - Anything in `<angle brackets>` is a placeholder. Replace it with your own value. For example, `<name>` could become `alex`.
 - The `|` symbol is called a pipe. It sends the output of one command into the next one.
 - Linux is case-sensitive: `Notes.txt` and `notes.txt` are different files.
@@ -27,7 +27,7 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 - Press **Ctrl+C** to stop a command that is running.
 
 ### Getting help when you are stuck
- 
+
 - `<command> --help` shows a short summary, for example `ls --help`.
 - `man <command>` opens the full manual, for example `man ls`. Press `q` to leave it.
 - `whatis <command>` gives a one-line description.
@@ -51,5 +51,5 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 15. [Printing and other tools](sections/15-printing-and-other-tools.md)
 
 ## Practice
- 
-Practice scenarios go in the [labs](labs/) folder.
+
+Practice scenarios go in the [labs](labs/) folder.   
