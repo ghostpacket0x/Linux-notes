@@ -18,6 +18,20 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 | Service | A program that runs in the background and waits for requests, like SSH |
 | Port | A numbered door on a computer that a service listens on, like 22 for SSH |
 
+### How to read the examples
+ 
+- Anything in `<angle brackets>` is a placeholder. Replace it with your own value. For example, `<name>` could become `alex`.
+- The `|` symbol is called a pipe. It sends the output of one command into the next one.
+- Linux is case-sensitive: `Notes.txt` and `notes.txt` are different files.
+- Press the **Tab** key while typing a name and Linux will try to finish it for you.
+- Press **Ctrl+C** to stop a command that is running.
+
+### Getting help when you are stuck
+ 
+- `<command> --help` shows a short summary, for example `ls --help`.
+- `man <command>` opens the full manual, for example `man ls`. Press `q` to leave it.
+- `whatis <command>` gives a one-line description.
+
 ## Table of contents
 
 1. [Files and navigation](sections/01-files-and-navigation.md)
