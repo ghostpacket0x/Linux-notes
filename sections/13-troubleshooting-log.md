@@ -35,7 +35,7 @@ Some entries are printing or niche tools that may not be installed on Kali by de
 | `lpstat` | Shows printer and job status (CUPS) | `cups-client` |
 | `cancel` | Cancels a print job (CUPS) | `cups-client` |
 | `lprm` | Removes a job from the print queue (legacy) | `lpr` |
-| `remsync` | Synchronises files between local and remote | `bsdutils` (not default) |
+| `remsync` | Synchronises files between local and remote | not default |
 | `mkisofs` | Creates an ISO 9660 image (now `genisoimage` or `xorriso`) | `genisoimage` |
 | `notify-send` | Sends a desktop notification | `libnotify-bin` |
 | `xdg-open` | Opens a file with the default application | `xdg-utils` |
@@ -43,4 +43,4 @@ Some entries are printing or niche tools that may not be installed on Kali by de
 | `gawk` | GNU awk (text processing) | `gawk` (usually pre-installed) |
 | `getopts` | Bash builtin for parsing script options | built-in |
 
-> `env`, `printenv`, and `fuser` are covered in section 04.   
+> `env`, `printenv`, and `fuser` are covered in section 04. 
