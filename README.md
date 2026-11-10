@@ -26,11 +26,15 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 - Press the **Tab** key while typing a name and Linux will try to finish it for you.
 - Press **Ctrl+C** to stop a command that is running.
 
-### Getting help when you are stuck
+## Getting Help When You're Stuck
 
-- `<command> --help` shows a short summary, for example `ls --help`.
-- `man <command>` opens the full manual, for example `man ls`. Press `q` to leave it.
-- `whatis <command>` gives a one-line description.
+- **`command --help`** shows a short summary. Example: `ls --help`
+- **`man command`** opens the full manual. Example: `man ls`. Press **q** to leave it.
+- **`whatis command`** gives a one-line description. Example: `whatis ls`
+- **`which command`** prints the full path of the executable in `$PATH`. Example: `which ls` → `/usr/bin/ls`
+- **`whereis command`** locates the binary, source, and man page in one go. Example: `whereis ls` → `/usr/bin/ls /usr/share/man/man1/ls.1.gz`
+
+> **`which` vs `whereis`:** `which` only finds executables and searches `$PATH`. `whereis` searches fixed system directories and can locate binaries, sources, and man pages simultaneously.   
 
 ## Table of contents
 
