@@ -14,7 +14,7 @@ Tip: check any command with `whatis <cmd>` or `man <cmd>`. Commands marked **(bu
 | `ls -a` | Includes hidden files (names that start with a dot) | `ls -a` |
 | `ls -h` | With `-l`, shows sizes like 4K or 2M instead of raw bytes | `ls -lh` |
 | `ls -lah` | Long list, hidden files, and readable sizes combined | `ls -lah` |
-| `ls -F` | Adds a marker: `/` folder, `*` executable, `@` symbolic link | `ls -F` |
+| `ls -F` | Adds a marker: `/` folder, `*` executable, `@` symbolic link, `\|` named pipe | `ls -F` |
 | `cd <folder>` | Moves into a folder | `cd Documents` |
 | `cd ..` | Goes up one folder | `cd ..` |
 | `cd ~` | Goes to your home folder | `cd ~` |
@@ -47,7 +47,7 @@ Tip: check any command with `whatis <cmd>` or `man <cmd>`. Commands marked **(bu
 | `plocate` / `mlocate` | Modern versions of `locate`. They replaced the obsolete `slocate` | `plocate notes.txt` |
 | `mmv` | Moves or renames many files using patterns. Install it first; `#1` means what the first `*` matched | `mmv "*.txt" "old_#1.txt"` |
 | `rename` | Renames files using a pattern. Syntax differs by distro (Perl version on Kali/Debian/Ubuntu, util-linux version on Fedora/RHEL) | `rename 's/old/new/' *.txt` |
-| `pathchk <name>` | Checks whether a file name is valid on the system | `pathchk "my file"` |
+| `pathchk <name>` | Checks whether a file name is valid on the system (prints nothing if it is) | `pathchk "my file"` |
 | `pushd <folder>` **(builtin)** | Saves the current folder and changes to a new one | `pushd /etc` |
 | `popd` **(builtin)** | Returns to the folder saved by `pushd` | `popd` |
 | `dirs` **(builtin)** | Lists the folders saved by `pushd` | `dirs` |
