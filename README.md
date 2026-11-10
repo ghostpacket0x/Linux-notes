@@ -2,7 +2,7 @@
 
 Command line notes from my practice on Kali Linux. Each section has the command, what it does, and an example. Real output is taken from my own VM, with anything sensitive removed.
 
-## Before you start
+## Before you start ##
 
 ### Key words
 
@@ -28,13 +28,13 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Getting Help When You're Stuck
 
-## Understanding Commands
+### Understanding Commands
 
 - **`command --help`** shows a short summary. Example: `ls --help`
 - **`man command`** opens the full manual. Example: `man ls`. Press **q** to leave it.
 - **`whatis command`** gives a one-line description. Example: `whatis ls`
 
-## Locating Commands
+### Locating Commands
 
 - **`which command`** prints the full path of the executable in `$PATH`. Example: `which ls` → `/usr/bin/ls`
 - **`whereis command`** locates the binary, source, and man page in one go. Example: `whereis ls` → `/usr/bin/ls /usr/share/man/man1/ls.1.gz`
