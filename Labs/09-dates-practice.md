@@ -1,8 +1,8 @@
-# Lab 06: Dates and calendars
+# Lab 09: Dates and calendars
 
 **Goal:** check today's date and compare calendars.
 
-**Linked section:** [06 Dates and calendars](../sections/06-dates-and-calendars.md)
+**Linked section:** [09-dates-and-calendars](../sections/09-dates-and-calendars.md)
 
 ## Steps
 
