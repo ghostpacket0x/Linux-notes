@@ -2,7 +2,7 @@
 
 **Goal:** read a real error message and fix it.
 
-**Linked section:** [13 Troubleshooting log](../sections/13-troubleshooting-log.md)
+**Linked section:** [13-Troubleshooting-log](../sections/13-troubleshooting-log.md)
 
 ## Steps
 
