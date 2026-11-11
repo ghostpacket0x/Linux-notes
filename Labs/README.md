@@ -1,4 +1,4 @@
-## Table of Labs
+## Table of Labs and their own Sections
 
 Hands-on practice for each section. Each lab has a goal, the steps, what to check, and how to clean up.
 
