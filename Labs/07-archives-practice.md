@@ -1,8 +1,8 @@
-# Lab 03: Archives and rsync
+# Lab 07: Archives and rsync
 
 **Goal:** pack a folder into an archive, check it, and restore it to a new place.
 
-**Linked section:** [03 Archives and rsync](../sections/03-archives-and-rsync.md)
+**Linked section:** [07 Archives and rsync](../sections/07-archives-and-rsync.md)
 
 ## Steps
 
