@@ -1,4 +1,4 @@
-# 4. Processes and system information
+# 5. Processes and system information
 
 ## Quick reference
 
