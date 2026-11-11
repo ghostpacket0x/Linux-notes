@@ -25,8 +25,8 @@ Bandit uses SSH logins, so use the connection details on the site, not any share
 
 | Platform | What it practises | Link to notes |
 |---|---|---|
-| **TryHackMe** (Linux modules) | Guided Linux and command line lessons with practice machines | [Sections 1 to 10](../sections/01-files-and-navigation.md) |
-| **Hack The Box Academy** | Use its own hints for questions | [Section 7](../sections/07-networking.md) |
+| **TryHackMe** (Linux modules) | ----------------------------- | [Sections 1 to 10](../sections/01-files-and-navigation.md) |
+| **Hack The Box Academy** | ----------------------------- | [Section 7](../sections/07-networking.md) |
 
 ## Suggested order
 
