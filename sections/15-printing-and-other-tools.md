@@ -24,3 +24,7 @@ These tools were listed in reference screenshots but don't fit neatly into one o
 | `xdg-open <file or URL>` | Opens a file or URL in its default application | `xdg-open https://example.com` |
 | `remsync` | Syncs remote files by email (niche, check before use) | `remsync` |
 | `expect` | Automates programs that need interactive input (install with `sudo apt install expect`) | `expect script.exp` |
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/15-printing-practice.md](../Labs/15-printing-practice.md)
