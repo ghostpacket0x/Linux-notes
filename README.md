@@ -2,6 +2,12 @@
 
 Command line notes from my practice on Kali Linux. Each section has the command, what it does, and an example. Real output is taken from my own VM, with anything sensitive removed.
 
+> **Tested on:** Kali Linux (rolling release). Check your version with `cat /etc/os-release`. Package names and output can change between versions.
+
+## Start here
+
+New to Linux? Read sections 1 and 2 first, then try the practice task at the end of each section. Work through the sections in order, and use the [Labs](Labs/) folder for longer scenarios.
+
 ## Before you start 
 
 ### Key words
@@ -61,5 +67,5 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Practice
 
-Practice scenarios go in the [Labs](Labs/) folder
-                    
+Practice scenarios go in the [Labs](Labs/) folder. Each section also ends with a short practice task that uses its commands.
+                
