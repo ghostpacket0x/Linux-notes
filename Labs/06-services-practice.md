@@ -1,8 +1,8 @@
-# Lab 10: Services and logs
+# Lab 06: Services and logs
 
 **Goal:** read the last few log lines for a service, then check its status.
 
-**Linked section:** [10 Services and logs](../sections/10-services-and-logs.md)
+**Linked section:** [06-services-and-logs](../sections/06-services-and-logs.md)
 
 ## Steps
 
