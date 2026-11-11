@@ -66,3 +66,4 @@ These commands help you see how a machine talks to others. They are the basics o
 
 ## Practice 
 
+Try the hands-on lab for this section: [Labs/10-networking-practice.md](../Labs/10-networking-practice.md)
