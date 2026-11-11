@@ -2,7 +2,7 @@
 
 **Goal:** send a desktop notification and check the print queue.
 
-**Linked section:** [15 Printing and other tools](../sections/15-printing-and-other-tools.md)
+**Linked section:** [15-Printing-and-other-tools](../sections/15-printing-and-other-tools.md)
 
 ## Steps
 
