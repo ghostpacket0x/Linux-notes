@@ -1,4 +1,4 @@
-# Lab 17: Permissions and ownership
+# Lab 16: Permissions and ownership
 
 **Goal:** create a file, change its permissions step by step, and read the results.
 
