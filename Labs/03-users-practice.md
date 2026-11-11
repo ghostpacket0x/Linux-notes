@@ -2,7 +2,7 @@
 
 **Goal:** create a test user, check its details, then remove it.
 
-**Linked section:** [03-Users-and-groups](../sections/03-users-and-groups.md)
+**Linked section:** [03-users-and-groups](../sections/03-users-and-groups.md)
 
 ## Steps
 
