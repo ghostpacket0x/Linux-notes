@@ -15,3 +15,5 @@
 13. [Troubleshooting log](sections/13-troubleshooting-log.md)
 14. [Shell builtins and keywords](sections/14-shell-builtins-and-keywords.md)
 15. [Printing and other tools](sections/15-printing-and-other-tools.md)
+16. [Permissions and ownership](sections/16-permissions-and-ownership.md)
+17. [Logs and monitoring](sections/17-logs-and-monitoring.md)
