@@ -20,4 +20,6 @@ Hands-on practice for each section. Each lab has a goal, the steps, what to chec
 | [14 Shell builtins](14-builtins-practice.md) | [Section 14](../sections/14-shell-builtins-and-keywords.md) |
 | [15 Printing and other tools](15-printing-practice.md) | [Section 15](../sections/15-printing-and-other-tools.md) |
 
+| [16 Games and challenges](16-games-and-challenges.md) | All sections |
+
 Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
