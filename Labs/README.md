@@ -1,6 +1,6 @@
 # Labs
 
-Practice scenarios go in this folder. Each lab should say:
+Practice scenarios go in this folder. Each lab should say :
 
 1. The goal, for example "create a user and give it sudo rights".
 2. The commands you used, with links to the matching section.
