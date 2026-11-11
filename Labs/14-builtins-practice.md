@@ -2,7 +2,7 @@
 
 **Goal:** try a builtin, a loop, and a variable.
 
-**Linked section:** [14 Shell builtins and keywords](../sections/14-shell-builtins-and-keywords.md)
+**Linked section:** [14-Shell-builtins-and-keywords](../sections/14-shell-builtins-and-keywords.md)
 
 ## Steps
 
