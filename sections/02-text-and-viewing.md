@@ -87,3 +87,7 @@ Notes:
 - On Debian-based systems such as Kali, plain `awk` is often `mawk`. Install `gawk` if you need the GNU features.
 - `file` also appears in section 01. It is repeated here so each section reads on its own.
 - `fdformat` (a floppy disk formatter) is obsolete and left out.
+
+## Practice
+
+Try the hands-on lab for this section: [Labs/02-text-practice.md](../Labs/02-text-practice.md)
