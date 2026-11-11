@@ -2,7 +2,7 @@
 
 **Goal:** create a small log file, then search and count it.
 
-**Linked section:** [02 Viewing and editing text](../sections/02-text-and-viewing.md)
+**Linked section:** [02-text-and-viewing](../sections/02-text-and-viewing.md)
 
 ## Steps
 
