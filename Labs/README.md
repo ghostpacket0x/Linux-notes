@@ -21,5 +21,6 @@ Hands-on practice for each section. Each lab has a goal, the steps, what to chec
 | [15 Printing and other tools](15-printing-practice.md) | [Section 15](../sections/15-printing-and-other-tools.md) |
 | [16 Permissions and ownership](16-permissions-practice.md) | [Section 16](../sections/16-permissions-and-ownership.md) |
 | [17 Logs and monitoring](17-logs-practice.md) | [Section 17](../sections/17-logs-and-monitoring.md) |
+| [Games and challenges](games-and-challenges.md) | All sections |
 
 Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
