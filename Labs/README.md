@@ -7,3 +7,5 @@ Practice scenarios go in this folder. Each lab should say :
 3. What went wrong and how you fixed it.
 
 Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
+
+## Table of Labs 
