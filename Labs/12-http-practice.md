@@ -2,7 +2,7 @@
 
 **Goal:** serve a folder with one HTML page, open it in a browser, then stop the server.
 
-**Linked section:** [12 Serving files over HTTP](../sections/12-serving-files-over-http.md)
+**Linked section:** [12-Serving-files-over-HTTP](../sections/12-serving-files-over-http.md)
 
 ## Steps
 
