@@ -77,3 +77,7 @@ Linux can have many users, and each one can belong to groups that control what t
 | `su <name>` | Switches to another user. Asks for that user's password | `su alex` |
 | `logout` **(builtin)** | Exits a login shell | `logout` |
 | `write <user>` | Sends a message to another user's terminal | `write alex` |   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/03-archives-practice.md](../Labs/03-archives-practice.md)
