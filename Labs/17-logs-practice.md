@@ -1,4 +1,4 @@
-# Lab 18: Logs and monitoring
+# Lab 17: Logs and monitoring
 
 **Goal:** write a test message to the system log, then find it with `journalctl` and `grep`.
 
