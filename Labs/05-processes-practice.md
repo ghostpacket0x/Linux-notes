@@ -1,4 +1,4 @@
-# Lab 05: Processes and system information
+# Lab 05: Processes and system
 
 **Goal:** start a background job, find it, and stop it.
 
