@@ -2,7 +2,7 @@
 
 **Goal:** start a session, split it, detach, and come back.
 
-**Linked section:** [11 Terminal multiplexing with tmux](../sections/11-tmux.md)
+**Linked section:** [11-terminal-multiplexing-with-tmux](../sections/11-tmux.md)
 
 ## Steps
 
