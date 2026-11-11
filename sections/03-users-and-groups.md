@@ -80,3 +80,4 @@ Linux can have many users, and each one can belong to groups that control what t
 
 ## Practice 
 
+Try the hands-on lab for this section: [Labs/03-users-practice.md](../Labs/03-users-practice.md)
