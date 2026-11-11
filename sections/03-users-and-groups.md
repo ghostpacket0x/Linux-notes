@@ -1,4 +1,4 @@
-# 8. Users and groups
+# 3. Users and groups
 
 Linux can have many users, and each one can belong to groups that control what they may access. Creating and removing users is a normal admin job.
 
