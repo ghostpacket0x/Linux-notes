@@ -63,3 +63,6 @@ These commands help you see how a machine talks to others. They are the basics o
 - `127.0.0.1` always means "this computer", so it is a safe address to practise `nmap` on.
 - Only scan machines you own or have written permission to test.
 - `rsync -e ssh` copies files to another machine over SSH. It is explained in section 3.   
+
+## Practice 
+
