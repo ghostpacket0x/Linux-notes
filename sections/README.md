@@ -1,4 +1,4 @@
-## Table of contents (sections)
+## Table of contents
 
 1. [Files and navigation](sections/01-files-and-navigation.md)
 2. [Viewing and editing text](sections/02-text-and-viewing.md)
