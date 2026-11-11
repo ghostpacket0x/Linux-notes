@@ -18,7 +18,7 @@ Tip: check any command with `whatis <cmd>` or `man <cmd>`. Commands marked **(bu
 | `cd <folder>` | Moves into a folder | `cd Documents` |
 | `cd ..` | Goes up one folder | `cd ..` |
 | `cd ~` | Goes to your home folder | `cd ~` |
-| `cd /` | Goes to the top of the system (the root folder) | `cd /` |
+| `cd /` | Goes to the top of the system (root folder) | `cd /` |
 | `which <command>` | Shows where a command is stored | `which ls` |
 | `find . -name "<pattern>"` | Searches the current folder for matching names | `find . -name "file1*"` |
 | `find / -type f` | Lists every file on the system (very long, so page it) | `find / -type f \| less` |
