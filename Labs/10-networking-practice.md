@@ -1,8 +1,8 @@
-# Lab 07: Networking
+# Lab 10: Networking
 
 **Goal:** check which ports are listening on your own machine, then test the loopback address.
 
-**Linked section:** [07 Networking](../sections/07-networking.md)
+**Linked section:** [10-networking](../sections/10-networking.md)
 
 ## Steps
 
