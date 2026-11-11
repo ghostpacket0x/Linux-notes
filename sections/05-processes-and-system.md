@@ -120,3 +120,7 @@ A **process** is a running program. These commands show what is running and what
 | `lsusb` | Lists USB devices | `lsusb` |
 | `lscpu` | Shows details about the processor | `lscpu` |
 | `lspci` | Lists internal devices like graphics and network cards | `lspci` |   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/05-processes-practice.md](../Labs/05-processes-practice.md)
