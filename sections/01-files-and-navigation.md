@@ -65,3 +65,7 @@ Tip: check any command with `whatis <cmd>` or `man <cmd>`. Commands marked **(bu
 Notes:
 - `symlink` is not a command. Use `ln -s`.
 - `v` is not a standard command. It only exists as an alias on some systems, so use `vdir`.
+
+## Practice
+
+Try the hands-on lab for this section: [labs/01-files-practice.md](../labs/01-files-practice.md)
