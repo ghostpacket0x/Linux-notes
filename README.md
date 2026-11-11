@@ -28,18 +28,18 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Getting Help When You're Stuck
 
-### Understanding Commands
+### Understanding Commands :
 
-- **`command --help`** shows a short summary. Example: `ls --help`
+- **`command --help`** shows a short summary. Example: `ls --help`.
 - **`man command`** opens the full manual. Example: `man ls`. Press **q** to leave it.
-- **`whatis command`** gives a one-line description. Example: `whatis ls`
+- **`whatis command`** gives a one-line description. Example: `whatis ls`.
 
-### Locating Commands
+### Locating Commands :
 
-- **`which command`** prints the full path of the executable in `$PATH`. Example: `which ls` → `/usr/bin/ls`
-- **`whereis command`** locates the binary, source, and man page in one go. Example: `whereis ls` → `/usr/bin/ls /usr/share/man/man1/ls.1.gz`
+- **`which command`** prints the full path of the executable in `$PATH`. Example: `which ls` → `/usr/bin/ls`.
+- **`whereis command`** locates the binary, source, and man page in one go. Example: `whereis ls` → `/usr/bin/ls /usr/share/man/man1/ls.1.gz`.
 
-> **`which` vs `whereis`:** `which` only finds executables and searches `$PATH`. `whereis` searches fixed system directories and can locate binaries, sources, and man pages simultaneously.   
+> **`which` vs `whereis`:** `which` only finds executables and searches `$PATH`. `whereis` searches fixed system directories and can locate binaries, sources, and man pages simultaneously.
 
 ## Table of contents
 
@@ -61,4 +61,5 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Practice
 
-Practice scenarios go in the [Labs](Labs/) folder.   
+Practice scenarios go in the [Labs](Labs/) folder
+                    
