@@ -2,7 +2,7 @@
 
 **Goal:** pack a folder into an archive, check it, and restore it to a new place.
 
-**Linked section:** [07 Archives and rsync](../sections/07-archives-and-rsync.md)
+**Linked section:** [07-archives-and-rsync](../sections/07-archives-and-rsync.md)
 
 ## Steps
 
