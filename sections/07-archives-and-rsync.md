@@ -57,3 +57,7 @@ Notes:
 | `install` | Copies files and sets their permissions in one step | `sudo install -m 755 script.sh /usr/local/bin/` |
 | `sum <file>` | Prints a checksum for a file, useful for checking a copy | `sum notes.txt` |
 | `unshar` | Unpacks shell archive scripts | `unshar archive.shar` |   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/07-archives-practice.md](../Labs/07-archives-practice.md)
