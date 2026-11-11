@@ -1,4 +1,4 @@
-# 3. Archives and rsync
+# 7. Archives and rsync
 
 ## Quick reference
 
