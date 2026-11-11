@@ -68,4 +68,4 @@ Notes:
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/01-files-practice.md](../labs/01-files-practice.md)
+Try the hands-on lab for this section: [Labs/01-files-practice.md](../Labs/01-files-practice.md)
