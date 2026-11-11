@@ -1,8 +1,8 @@
-# Lab 05: Disk usage
+# Lab 08: Disk usage
 
 **Goal:** find out which folders in your home directory use the most space.
 
-**Linked section:** [05 Disk usage](../sections/05-disk-usage.md)
+**Linked section:** [08-disk-usage](../sections/08-disk-usage.md)
 
 ## Steps
 
