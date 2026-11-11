@@ -1,8 +1,8 @@
-# Lab 09: Packages
+# Lab 04: Packages
 
 **Goal:** install a small tool, check that it works, then remove it.
 
-**Linked section:** [09 Packages](../sections/09-packages.md)
+**Linked section:** [04-packages](../sections/04-packages.md)
 
 ## Steps
 
