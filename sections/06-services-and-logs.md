@@ -1,4 +1,4 @@
-# 10. Services and logs
+# 6. Services and logs
 
 A **service** is a program that runs quietly in the background and waits for requests, such as SSH (remote login). Linux manages services with `systemctl`, and records what happens in logs you can read with `journalctl`.
 
