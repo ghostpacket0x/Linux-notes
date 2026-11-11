@@ -1,4 +1,4 @@
-# 5. Disk usage
+# 8. Disk usage
 
 Two questions come up often: "how big is this folder?" and "how much space is left?"
 
