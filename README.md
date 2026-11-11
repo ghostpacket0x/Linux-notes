@@ -47,7 +47,7 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 
 > **`which` vs `whereis`:** `which` only finds executables and searches `$PATH`. `whereis` searches fixed system directories and can locate binaries, sources, and man pages simultaneously.
 
-## Table of contents
+## Table of contents (sections)
 
 1. [Files and navigation](sections/01-files-and-navigation.md)
 2. [Viewing and editing text](sections/02-text-and-viewing.md)
