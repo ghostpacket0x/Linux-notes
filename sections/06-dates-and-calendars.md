@@ -7,7 +7,7 @@
 | `date` | Shows or sets the date and time |
 | `cal` | Prints a monthly or yearly calendar |
 | `ncal` | Prints a calendar with days of the week down the side |
-| `touch` | Changes a file's timestamps (see section 01) |
+| `touch` | Changes a file's timestamps (go check section 01) |
 
 ## Dates and calendars
 
