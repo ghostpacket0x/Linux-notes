@@ -2,7 +2,7 @@
 
 **Goal:** create a folder, add a file, move it, and find it again.
 
-**Linked section:** [01 Files and navigation](../sections/01-files-and-navigation.md)
+**Linked section:** [01-Files-and-navigation](../sections/01-files-and-navigation.md)
 
 ## Steps
 
