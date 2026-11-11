@@ -47,24 +47,6 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 
 > **`which` vs `whereis`:** `which` only finds executables and searches `$PATH`. `whereis` searches fixed system directories and can locate binaries, sources, and man pages simultaneously.
 
-## Table of contents (sections)
-
-1. [Files and navigation](sections/01-files-and-navigation.md)
-2. [Viewing and editing text](sections/02-text-and-viewing.md)
-3. [Users and groups](sections/03-users-and-groups.md)
-4. [Packages](sections/04-packages.md)
-5. [Processes and system information](sections/05-processes-and-system.md)
-6. [Services and logs](sections/06-services-and-logs.md)
-7. [Archives and rsync](sections/07-archives-and-rsync.md)
-8. [Disk usage](sections/08-disk-usage.md)
-9. [Dates and calendars](sections/09-dates-and-calendars.md)
-10. [Networking](sections/10-networking.md)
-11. [Terminal multiplexing with tmux](sections/11-tmux.md)
-12. [Serving files over HTTP](sections/12-serving-files-over-http.md)
-13. [Troubleshooting log](sections/13-troubleshooting-log.md)
-14. [Shell builtins and keywords](sections/14-shell-builtins-and-keywords.md)
-15. [Printing and other tools](sections/15-printing-and-other-tools.md)
-
 ## Practice
 
 Practice scenarios go in the [Labs](Labs/) folder. Each section also ends with a short practice task that uses its commands.
