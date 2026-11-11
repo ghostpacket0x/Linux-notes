@@ -33,3 +33,7 @@ Start it with `tmux`. After that, every shortcut begins with `Ctrl+b`: press `Ct
 | `Ctrl+b` then `:` and `set -g status off` | Hides the status bar at the bottom |
 
 To hide the status bar every time, add `set -g status off` to `~/.tmux.conf`.   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/11-tmux-practice.md](../Labs/11-tmux-practice.md)
