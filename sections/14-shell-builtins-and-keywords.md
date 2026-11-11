@@ -47,3 +47,7 @@ for user in alice bob; do
     echo "Hello $user"
 done
 ```
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/14-builtins-practice.md](../Labs/14-builtins-practice.md)
