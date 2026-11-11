@@ -42,3 +42,7 @@ A **service** is a program that runs quietly in the background and waits for req
 | `shutdown -h now` | Shuts down the system now | `sudo shutdown -h now` |
 
 > Only run an SSH service on machines you own, and turn it off when you don't need it. A running service is a door that others can try to open.   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/06-services-practice.md](../Labs/06-services-practice.md)
