@@ -20,3 +20,7 @@
 | `cal <month> <year>` | Shows one month | `cal 1 2027` |
 
 Related commands that measure time, such as `time` and `sleep`, are in section 4.   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/09-dates-practice.md](../Labs/09-dates-practice.md)
