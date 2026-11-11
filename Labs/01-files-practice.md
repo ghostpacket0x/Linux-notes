@@ -1,4 +1,4 @@
-# Lab 01: Files and navigation
+  # Lab 01: Files and navigation
 
 **Goal:** create a folder, add a file, move it, and find it again.
 
