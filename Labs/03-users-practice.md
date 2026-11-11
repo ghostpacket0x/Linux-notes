@@ -1,8 +1,8 @@
-# Lab 08: Users and groups
+# Lab 03: Users and groups
 
 **Goal:** create a test user, check its details, then remove it.
 
-**Linked section:** [08 Users and groups](../sections/08-users-and-groups.md)
+**Linked section:** [03 Users and groups](../sections/03-users-and-groups.md)
 
 ## Steps
 
