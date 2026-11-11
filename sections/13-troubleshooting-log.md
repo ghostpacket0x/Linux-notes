@@ -44,3 +44,7 @@ Some entries are printing or niche tools that may not be installed on Kali by de
 | `getopts` | Bash builtin for parsing script options | built-in |
 
 > `env`, `printenv`, and `fuser` are covered in section 04. 
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/13-troubleshooting-practice.md](../Labs/13-troubleshooting-practice.md)
