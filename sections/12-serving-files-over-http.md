@@ -33,3 +33,7 @@ You can turn any folder into a small website with one command. This is handy for
 | `wget <url>` | Downloads a file from a web server, useful for testing a server you started | `wget http://127.0.0.1:8080/index.html` |
 | `curl -i <url>` | Requests a page and shows the response headers and body | `curl -i http://127.0.0.1:8080/` |
 | `import <file>.png` | Captures an X server screen and saves the image (needs a desktop session) | `import screen.png` |   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/12-http-practice.md](../Labs/12-http-practice.md)
