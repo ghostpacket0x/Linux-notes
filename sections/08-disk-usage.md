@@ -45,3 +45,7 @@ Two questions come up often: "how big is this folder?" and "how much space is le
 | `quota` | Shows disk usage and limits for a user | `quota` |
 | `quotacheck` | Scans a file system to update disk quota information | `sudo quotacheck -cu /home` |
 | `setquota` | Sets disk quota limits for a user or group | `sudo setquota -u alice 1000 2000 0 0 /home` |
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/08-disk-practice.md](../Labs/08-disk-practice.md)
