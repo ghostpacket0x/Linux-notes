@@ -1,4 +1,4 @@
-# 9. Packages
+# 4. Packages
 
 A package manager is like an app store for the terminal. It downloads, installs, updates, and removes software for you. Kali uses `apt`.
 
