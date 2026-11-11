@@ -70,3 +70,7 @@ A package manager is like an app store for the terminal. It downloads, installs,
 | `gem` | Installs Ruby libraries | `gem install bundler` |
 | `git` | Downloads and tracks source code | `git clone <url>` |
 | `make` | Compiles a group of programs from a `Makefile` | `make` |   
+
+## Practice 
+
+Try the hands-on lab for this section: [Labs/04-packages-practice.md](../Labs/04-packages-practice.md)
