@@ -1,8 +1,8 @@
-# Lab 04: Processes and system information
+# Lab 05: Processes and system information
 
 **Goal:** start a background job, find it, and stop it.
 
-**Linked section:** [04 Processes and system information](../sections/04-processes-and-system.md)
+**Linked section:** [05-processes-and-system](../sections/05-processes-and-system.md)
 
 ## Steps
 
