@@ -1,4 +1,4 @@
-# 7. Networking
+# 10. Networking
 
 These commands help you see how a machine talks to others. They are the basics of troubleshooting and security checks.
 
