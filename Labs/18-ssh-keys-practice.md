@@ -1,4 +1,4 @@
-# Lab 19: SSH keys and configuration
+# Lab 18: SSH keys and configuration
 
 **Goal:** create a key pair, check its permissions, and write a config entry.
 
