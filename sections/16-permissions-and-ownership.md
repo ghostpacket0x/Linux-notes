@@ -70,4 +70,4 @@ Add the numbers in each group to get the octal value. For example, `rw-r--r--` i
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/17-permissions-practice.md](../labs/17-permissions-practice.md)
+Try the hands-on lab for this section: [Labs/16-permissions-practice.md](../Labs/16-permissions-practice.md)
