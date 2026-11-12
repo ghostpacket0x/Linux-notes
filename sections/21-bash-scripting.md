@@ -120,4 +120,4 @@ echo "$1 contains $(ls -1 "$1" | wc -l) items"
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/22-bash-practice.md](../labs/22-bash-practice.md)
+Try the hands-on lab for this section: [Labs/21-bash-practice.md](../Labs/21-bash-practice.md)
