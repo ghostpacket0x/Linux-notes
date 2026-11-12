@@ -1,4 +1,4 @@
-# Lab 22: Bash scripting
+# Lab 21: Bash scripting
 
 **Goal:** write a script that takes an argument, checks it, and reports the result.
 
