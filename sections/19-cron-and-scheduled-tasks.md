@@ -51,3 +51,6 @@ Cron doesn't show output on screen, so send it to a log file:
 
 - A job that works in your terminal may fail in cron, because cron has fewer environment variables. Use full paths, for example `/usr/bin/date`.
 - Check `~/cron-test.log` after a few minutes to confirm the job ran.
+
+## Practice
+
