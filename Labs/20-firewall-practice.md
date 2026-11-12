@@ -1,4 +1,4 @@
-# Lab 21: Firewall basics
+# Lab 20: Firewall basics
 
 **Goal:** check the firewall, add and delete a rule, and read the status output. Use this only on your own VM.
 
