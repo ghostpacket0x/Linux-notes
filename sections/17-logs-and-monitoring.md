@@ -51,4 +51,4 @@ journalctl -n 5 --no-pager
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/18-logs-practice.md](../labs/18-logs-practice.md)
+Try the hands-on lab for this section: [Labs/17-logs-practice.md](../Labs/17-logs-practice.md)
