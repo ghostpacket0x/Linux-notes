@@ -39,5 +39,5 @@ Short definitions of terms used across the notes. Each term links to the section
 | **systemd** | The service manager that starts and stops services, controlled with `systemctl` | [6](sections/06-services-and-logs.md) |
 | **Terminal** | The window where you type commands | [11](sections/11-tmux.md) |
 | **tmux session** | A terminal session that keeps running after you close the window | [11](sections/11-tmux.md) |
-| **VPN** | A secure tunnel to a private network, such as a Hack The Box lab | [troubleshooting log](sections/13-troubleshooting-log.md) |
+| **VPN** | A secure tunnel to a private network, such as a Hack The Box lab | [13](sections/13-troubleshooting-log.md) |
 | **Wildcard** | Another name for a glob, such as `*.txt` | [2](sections/02-text-and-viewing.md) |
