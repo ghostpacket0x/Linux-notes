@@ -25,6 +25,7 @@ Hands-on practice for each section. Each lab has a goal, the steps, what to chec
 | [19 Cron](19-cron-practice.md) | [Section 19](../sections/19-cron-and-scheduled-tasks.md) |
 | [20 Firewall](20-firewall-practice.md) | [Section 20](../sections/20-firewall-basics.md) |
 | [21 Bash scripting](21-bash-practice.md) | [Section 21](../sections/21-bash-scripting.md) |
+| [22 Finding files](22-find-practice.md) | [Section 22](../sections/22-finding-interesting-files.md) |
 | [Games and challenges](games-and-challenges.md) | All sections |
 
 Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
