@@ -39,3 +39,4 @@ A firewall decides which network connections a machine accepts. `ufw` (Uncomplic
 
 ## Practice
 
+Try the hands-on lab for this section: [Labs/20-firewall-practice.md](../Labs/20-firewall-practice.md)
