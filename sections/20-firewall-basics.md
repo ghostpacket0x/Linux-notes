@@ -36,3 +36,6 @@ A firewall decides which network connections a machine accepts. `ufw` (Uncomplic
 
 - Check the rules with `sudo ufw status` after each change.
 - `ss -tulpn` shows which ports are listening, so you can compare them with your firewall rules (section 7).
+
+## Practice
+
