@@ -1,4 +1,4 @@
-# Lab 23: Finding interesting files
+# Lab 22: Finding interesting files
 
 **Goal:** search a practice folder by name, size, age, and permissions, then act on the results.
 
