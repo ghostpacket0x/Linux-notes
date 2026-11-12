@@ -69,6 +69,7 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 18. [SSH keys and configuration](sections/18-ssh-keys-and-config.md)
 19. [Cron and scheduled tasks](sections/19-cron-and-scheduled-tasks.md)
 20. [Firewall basics](sections/20-firewall-basics.md)
+21. [Bash scripting basics](sections/21-bash-scripting.md)
 
 ## Practice
 
