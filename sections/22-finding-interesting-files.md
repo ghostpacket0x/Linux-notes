@@ -57,4 +57,4 @@ The `-perm -4000` form means "these bits are set". `-perm 4000` would mean "exac
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/23-find-practice.md](../labs/23-find-practice.md)
+Try the hands-on lab for this section: [Labs/22-find-practice.md](../Labs/22-find-practice.md)
