@@ -47,3 +47,6 @@ After that, `ssh lab` connects with the right user and key.
 - Use a passphrase on your private key, so a stolen file isn't enough on its own.
 - Only connect to machines you own or have permission to access.
 - To check the connection details SSH will use, run `ssh -G lab`.
+
+## Practice 
+
