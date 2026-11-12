@@ -50,3 +50,4 @@ After that, `ssh lab` connects with the right user and key.
 
 ## Practice 
 
+Try the hands-on lab for this section:
