@@ -72,6 +72,11 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 21. [Bash scripting basics](sections/21-bash-scripting.md)
 22. [Finding interesting files](sections/22-finding-interesting-files.md)
 
+## Glossary and contributing
+
+- [Glossary](GLOSSARY.md): short definitions of the terms used across the notes
+- [Contributing](CONTRIBUTING.md): how to report problems and suggest changes
+
 ## Practice
 
 Practice scenarios go in the [Labs](Labs/) folder. Each section also ends with a short practice task that uses its commands.
