@@ -17,3 +17,6 @@
 15. [Printing and other tools](sections/15-printing-and-other-tools.md)
 16. [Permissions and ownership](sections/16-permissions-and-ownership.md)
 17. [Logs and monitoring](sections/17-logs-and-monitoring.md)
+18. [SSH keys and configuration](sections/18-ssh-keys-and-config.md)
+19. [Cron and scheduled tasks](sections/19-cron-and-scheduled-tasks.md)
+20. [Firewall basics](sections/20-firewall-basics.md)
