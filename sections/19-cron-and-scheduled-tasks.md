@@ -54,3 +54,4 @@ Cron doesn't show output on screen, so send it to a log file:
 
 ## Practice
 
+Try the hands-on lab for this section: [Labs/19-cron-practice.md](../Labs/19-cron-practice.md)
