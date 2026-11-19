@@ -96,6 +96,6 @@ Every command has three streams: input (`stdin`), normal output (`stdout`), and 
 
 ## Practice
 
-Try the hands-on lab for this section: [Labs/02-text-practice.md](../labs/02-text-practice.md)
+Try the hands-on lab for this section: [Labs/02-text-practice.md](../Labs/02-text-practice.md)
 
-Redirection practice: [Labs/23-redirection-practice.md](../labs/23-redirection-practice.md)
+Redirection practice: [Labs/23-redirection-practice.md](../Labs/23-redirection-practice.md)
