@@ -6,7 +6,7 @@ Command line notes from my practice on Kali Linux. Each section has the command,
 
 ## Start here
 
-New to Linux? Read sections 1 and 2 first, then try the practice task at the end of each section. Work through the sections in order, and use the [labs](labs/) folder for longer scenarios.
+New to Linux? Read sections 1 and 2 first, then try the practice task at the end of each section. Work through the sections in order, and use the [Labs](Labs/) folder for longer scenarios.
 
 ## Before you start
 
