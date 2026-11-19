@@ -1,32 +1,73 @@
-# Labs
+# Linux Notes
 
-Hands-on practice for each section. Each lab has a goal, the steps, what to check, and how to clean up.
+Command line notes from my practice on Kali Linux. Each section has the command, what it does, and an example. Real output is taken from my own VM, with anything sensitive removed.
 
-| Lab | Section |
+> **Tested on:** Kali Linux (rolling release). Check your version with `cat /etc/os-release`. Package names and output can change between versions.
+
+## Start here
+
+New to Linux? Read sections 1 and 2 first, then try the practice task at the end of each section. Work through the sections in order, and use the [labs](labs/) folder for longer scenarios.
+
+## Before you start
+
+### Key words
+
+| Word | What it means |
 |---|---|
-| [01 Files and navigation](01-files-practice.md) | [Section 1](../sections/01-files-and-navigation.md) |
-| [02 Viewing and editing text](02-text-practice.md) | [Section 2](../sections/02-text-and-viewing.md) |
-| [03 Users and groups](03-users-practice.md) | [Section 8](../sections/08-users-and-groups.md) |
-| [04 Packages](04-packages-practice.md) | [Section 9](../sections/09-packages.md) |
-| [05 Processes](05-processes-practice.md) | [Section 4](../sections/04-processes-and-system.md) |
-| [06 Services and logs](06-services-practice.md) | [Section 10](../sections/10-services-and-logs.md) |
-| [07 Archives and rsync](07-archives-practice.md) | [Section 3](../sections/03-archives-and-rsync.md) |
-| [08 Disk usage](08-disk-practice.md) | [Section 5](../sections/05-disk-usage.md) |
-| [09 Dates and calendars](09-dates-practice.md) | [Section 6](../sections/06-dates-and-calendars.md) |
-| [10 Networking](10-networking-practice.md) | [Section 7](../sections/07-networking.md) |
-| [11 tmux](11-tmux-practice.md) | [Section 11](../sections/11-tmux.md) |
-| [12 Serving files over HTTP](12-http-practice.md) | [Section 12](../sections/12-serving-files-over-http.md) |
-| [13 Reading errors](13-troubleshooting-practice.md) | [Section 13](../sections/13-troubleshooting-log.md) |
-| [14 Shell builtins](14-builtins-practice.md) | [Section 14](../sections/14-shell-builtins-and-keywords.md) |
-| [15 Printing and other tools](15-printing-practice.md) | [Section 15](../sections/15-printing-and-other-tools.md) |
-| [16 Games and challenges](16-games-and-challenges.md) | All sections |
-| [17 Permissions and ownership](17-permissions-practice.md) | [Section 16](../sections/16-permissions-and-ownership.md) |
-| [18 Logs and monitoring](18-logs-practice.md) | [Section 17](../sections/17-logs-and-monitoring.md) |
-| [19 SSH keys](19-ssh-keys-practice.md) | [Section 18](../sections/18-ssh-keys-and-config.md) |
-| [20 Cron](20-cron-practice.md) | [Section 19](../sections/19-cron-and-scheduled-tasks.md) |
-| [21 Firewall](21-firewall-practice.md) | [Section 20](../sections/20-firewall-basics.md) |
-| [22 Bash scripting](22-bash-practice.md) | [Section 21](../sections/21-bash-scripting.md) |
-| [23 Finding files](23-find-practice.md) | [Section 22](../sections/22-finding-interesting-files.md) |
-| [24 Redirection and pipes](24-redirection-practice.md) | [Section 2](../sections/02-text-and-viewing.md) |
+| Terminal | The window where you type commands instead of clicking |
+| Command | An instruction you type and run by pressing Enter |
+| Directory | Another word for a folder |
+| Root | The all-powerful administrator account on Linux. Also the name of the top folder `/` |
+| `sudo` | Runs one command with administrator rights. Linux asks for your password |
+| PID | Process ID, the number Linux gives every running program |
+| Package | A piece of software you install with a package manager |
+| Service | A program that runs in the background and waits for requests, like SSH |
+| Port | A numbered door on a computer that a service listens on, like 22 for SSH |
 
-Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
+### How to read the examples
+
+- Anything in `<angle brackets>` is a placeholder. Replace it with your own value. For example, `<name>` could become `alex`.
+- The `|` symbol is called a pipe. It sends the output of one command into the next one.
+- Linux is case-sensitive: `Notes.txt` and `notes.txt` are different files.
+- Press the **Tab** key while typing a name and Linux will try to finish it for you.
+- Press **Ctrl+C** to stop a command that is running.
+
+### Getting help when you are stuck
+
+- `<command> --help` shows a short summary, for example `ls --help`.
+- `man <command>` opens the full manual, for example `man ls`. Press `q` to leave it.
+- `whatis <command>` gives a one-line description.
+
+## Table of contents
+
+1. [Files and navigation](sections/01-files-and-navigation.md)
+2. [Viewing and editing text](sections/02-text-and-viewing.md)
+3. [Archives and rsync](sections/03-archives-and-rsync.md)
+4. [Processes and system information](sections/04-processes-and-system.md)
+5. [Disk usage](sections/05-disk-usage.md)
+6. [Dates and calendars](sections/06-dates-and-calendars.md)
+7. [Networking](sections/07-networking.md)
+8. [Users and groups](sections/08-users-and-groups.md)
+9. [Packages](sections/09-packages.md)
+10. [Services and logs](sections/10-services-and-logs.md)
+11. [Terminal multiplexing with tmux](sections/11-tmux.md)
+12. [Serving files over HTTP](sections/12-serving-files-over-http.md)
+13. [Troubleshooting log](sections/13-troubleshooting-log.md)
+14. [Shell builtins and keywords](sections/14-shell-builtins-and-keywords.md)
+15. [Printing and other tools](sections/15-printing-and-other-tools.md)
+16. [Permissions and ownership](sections/16-permissions-and-ownership.md)
+17. [Logs and monitoring](sections/17-logs-and-monitoring.md)
+18. [SSH keys and configuration](sections/18-ssh-keys-and-config.md)
+19. [Cron and scheduled tasks](sections/19-cron-and-scheduled-tasks.md)
+20. [Firewall basics](sections/20-firewall-basics.md)
+21. [Bash scripting basics](sections/21-bash-scripting.md)
+22. [Finding interesting files](sections/22-finding-interesting-files.md)
+
+## Glossary and contributing
+
+- [Glossary](GLOSSARY.md): short definitions of the terms used across the notes
+- [Contributing](CONTRIBUTING.md): how to report problems and suggest changes
+
+## Practice
+
+Practice scenarios go in the [labs](labs/) folder. Each section also ends with a short practice task that uses its commands.
