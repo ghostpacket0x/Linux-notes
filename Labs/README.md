@@ -19,14 +19,14 @@ Hands-on practice for each section. Each lab has a goal, the steps, what to chec
 | [13 Reading errors](13-troubleshooting-practice.md) | [Section 13](../sections/13-troubleshooting-log.md) |
 | [14 Shell builtins](14-builtins-practice.md) | [Section 14](../sections/14-shell-builtins-and-keywords.md) |
 | [15 Printing and other tools](15-printing-practice.md) | [Section 15](../sections/15-printing-and-other-tools.md) |
-| [17 Permissions and ownership](17-permissions-practice.md) | [Section 16](../sections/16-permissions-and-ownership.md) |
-| [18 Logs and monitoring](18-logs-practice.md) | [Section 17](../sections/17-logs-and-monitoring.md) |
-| [19 SSH keys](19-ssh-keys-practice.md) | [Section 18](../sections/18-ssh-keys-and-config.md) |
-| [20 Cron](20-cron-practice.md) | [Section 19](../sections/19-cron-and-scheduled-tasks.md) |
-| [21 Firewall](21-firewall-practice.md) | [Section 20](../sections/20-firewall-basics.md) |
-| [22 Bash scripting](22-bash-practice.md) | [Section 21](../sections/21-bash-scripting.md) |
-| [23 Finding files](23-find-practice.md) | [Section 22](../sections/22-finding-interesting-files.md) |
-| [24 Redirection and pipes](24-redirection-practice.md) | [Section 2](../sections/02-text-and-viewing.md) |
+| [16 Permissions and ownership](16-permissions-practice.md) | [Section 16](../sections/16-permissions-and-ownership.md) |
+| [17 Logs and monitoring](17-logs-practice.md) | [Section 17](../sections/17-logs-and-monitoring.md) |
+| [18 SSH keys](18-ssh-keys-practice.md) | [Section 18](../sections/18-ssh-keys-and-config.md) |
+| [19 Cron](19-cron-practice.md) | [Section 19](../sections/19-cron-and-scheduled-tasks.md) |
+| [20 Firewall](20-firewall-practice.md) | [Section 20](../sections/20-firewall-basics.md) |
+| [21 Bash scripting](21-bash-practice.md) | [Section 21](../sections/21-bash-scripting.md) |
+| [22 Finding files](22-find-practice.md) | [Section 22](../sections/22-finding-interesting-files.md) |
+| [23 Redirection and pipes](23-redirection-practice.md) | [Section 2](../sections/02-text-and-viewing.md) |
 | [Games and challenges](games-and-challenges.md) | All sections |
 
 Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
