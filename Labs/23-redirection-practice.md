@@ -1,4 +1,4 @@
-# Lab 24: Redirection and pipes
+# Lab 23: Redirection and pipes
 
 **Goal:** send output and errors to files, read input from a file, and combine commands with pipes.
 
