@@ -6,9 +6,9 @@ Hands-on practice for each section. Each lab has a goal, the steps, what to chec
 |---|---|
 | [01 Files and navigation](01-files-practice.md) | [Section 1](../sections/01-files-and-navigation.md) |
 | [02 Viewing and editing text](02-text-practice.md) | [Section 2](../sections/02-text-and-viewing.md) |
-| [03 Users and groups](03-users-practice.md) | [Section 8](../sections/08-users-and-groups.md) |
-| [04 Packages](04-packages-practice.md) | [Section 9](../sections/09-packages.md) |
-| [05 Processes](05-processes-practice.md) | [Section 4](../sections/04-processes-and-system.md) |
+| [03 Users and groups](03-users-practice.md) | [Section 3](../sections/03-users-and-groups.md) |
+| [04 Packages](04-packages-practice.md) | [Section 4](../sections/04-packages.md) |
+| [05 Processes](05-processes-practice.md) | [Section 5](../sections/05-processes-and-system.md) |
 | [06 Services and logs](06-services-practice.md) | [Section 10](../sections/10-services-and-logs.md) |
 | [07 Archives and rsync](07-archives-practice.md) | [Section 3](../sections/03-archives-and-rsync.md) |
 | [08 Disk usage](08-disk-practice.md) | [Section 5](../sections/05-disk-usage.md) |
