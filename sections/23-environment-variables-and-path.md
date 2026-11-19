@@ -86,4 +86,4 @@ Then run `source ~/.zshrc` or open a new terminal.
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/25-environment-practice.md](../labs/25-environment-practice.md)
+Try the hands-on lab for this section: [labs/23-environment-practice.md](../labs/23-environment-practice.md)
