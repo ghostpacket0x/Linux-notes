@@ -62,6 +62,7 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 20. [Firewall basics](sections/20-firewall-basics.md)
 21. [Bash scripting basics](sections/21-bash-scripting.md)
 22. [Finding interesting files](sections/22-finding-interesting-files.md)
+23. [Environment variables and PATH](sections/23-environment-variables-and-path.md)
 
 ## Glossary and contributing
 
