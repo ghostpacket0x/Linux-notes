@@ -70,4 +70,4 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 
 ## Practice
 
-Practice scenarios go in the [labs](labs/) folder. Each section also ends with a short practice task that uses its commands.
+Practice scenarios go in the [Labs](Labs/) folder. Each section also ends with a short practice task that uses its commands.
