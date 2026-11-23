@@ -2,7 +2,7 @@
 
 **Goal:** make a backup with tar and rsync, check it with checksums, simulate losing a file, and restore it.
 
-**Linked section:** [23 Backups and recovery](../sections/23-backups-and-recovery.md)
+**Linked section:** [24 Backups and recovery](../sections/24-backups-and-recovery.md)
 
 ## Steps
 
