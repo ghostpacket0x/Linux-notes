@@ -29,6 +29,7 @@ Hands-on practice for each section. Each lab has a goal, the steps, what to chec
 | [23 Redirection and pipes](23-redirection-practice.md) | [Section 2](../sections/02-text-and-viewing.md) |
 | [24 Environment and PATH](24-environment-practice.md) | [Section 23](../sections/23-environment-variables-and-path.md) |
 | [25 Backups and recovery](25-backup-practice.md) | [Section 24](../sections/24-backups-and-recovery.md) |
+| [26 Git basics](26-git-practice.md) | [Section 25](../sections/25-git-basics.md) |
 | [Games and challenges](games-and-challenges.md) | All sections |
 
 Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
