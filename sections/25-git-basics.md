@@ -85,4 +85,4 @@ Commit the `.gitignore` itself. If a file was already committed, adding it to `.
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/27-git-practice.md](../labs/27-git-practice.md)
+Try the hands-on lab for this section: [Labs/26-git-practice.md](../Labs/26-git-practice.md)
