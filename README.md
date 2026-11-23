@@ -64,6 +64,8 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 22. [Finding interesting files](sections/22-finding-interesting-files.md)
 23. [Environment variables and PATH](sections/23-environment-variables-and-path.md)
 24. [Backups and recovery](sections/24-backups-and-recovery.md)
+25. [Git basics](sections/25-git-basics.md)
+
 
 ## Glossary and contributing
 
