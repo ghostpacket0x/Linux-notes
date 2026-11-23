@@ -70,6 +70,10 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 - [Glossary](GLOSSARY.md): short definitions of the terms used across the notes
 - [Contributing](CONTRIBUTING.md): how to report problems and suggest changes
 
+## License
+
+This project is licensed under the [MIT License](LICENSE). You're free to use, copy, and change the notes, as long as the copyright notice stays with them.
+
 ## Practice
 
 Practice scenarios go in the [Labs](Labs/) folder. Each section also ends with a short practice task that uses its commands.
