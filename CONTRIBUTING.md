@@ -41,3 +41,7 @@ Keep the explanations in your own words. Link to the man page for detail rather 
 ## Labs
 
 Each lab needs a goal, the steps, what to check, and a clean-up section. Put any command that changes the system in a practice folder, or in a VM you're allowed to change.
+
+## Licence
+
+By contributing, you agree that your changes are released under the [MIT License](LICENSE), the same licence as the rest of the project.
