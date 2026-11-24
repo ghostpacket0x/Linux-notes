@@ -82,4 +82,4 @@ Type `exit` to leave an interactive shell.
 
 ## Practice
 
-Try the hands-on lab for this section: [labs/28-docker-practice.md](../labs/28-docker-practice.md)
+Try the hands-on lab for this section: [Labs/27-docker-practice.md](../Labs/27-docker-practice.md)
