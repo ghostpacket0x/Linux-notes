@@ -74,6 +74,7 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 
 - [Glossary](GLOSSARY.md): short definitions of the terms used across the notes
 - [Contributing](CONTRIBUTING.md): how to report problems and suggest changes
+- [Learning paths](LEARNING-PATHS.md): choose a path for your goal
 
 ## License
 
