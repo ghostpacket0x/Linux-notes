@@ -84,6 +84,77 @@ Then run `source ~/.zshrc` or open a new terminal.
 - `sudo` resets most variables for safety. `sudo -E` keeps yours, but avoid it unless you know why you need it.
 - If a command suddenly stops working, check `echo $PATH` for a bad change.
 
+## Shell customisation
+
+Small changes to your shell make everyday work faster. Keep all of them in `~/.zshrc` so they survive a restart.
+
+### Aliases
+
+An alias is a short name for a longer command.
+
+```bash
+alias ll='ls -lah'
+alias up='cd ..'
+alias ports='sudo ss -tulpn'
+```
+
+| Command | What it does | Example |
+|---|---|---|
+| `alias <name>='<command>'` | Creates an alias for this session | `alias ll='ls -lah'` |
+| `alias` | Lists all aliases | `alias` |
+| `type <name>` | Shows whether a name is an alias | `type ll` |
+| `unalias <name>` | Removes an alias | `unalias ll` |
+
+Notes on aliases:
+
+- Aliases work only in your interactive shell. Scripts don't read them, so use functions or full commands in scripts.
+- `alias rm='rm -i'` asks before each deletion. It's a useful habit, but people who rely on it may be caught out on a machine without it.
+
+### Prompts
+
+The prompt is set by the `PROMPT` variable in zsh (or `PS1` in bash). Zsh uses `%` codes:
+
+| Code | Shows |
+|---|---|
+| `%n` | Your user name |
+| `%m` | The host name |
+| `%~` | The current folder, shortened with `~` for home |
+| `%#` | `#` for root, `%` for a normal user |
+
+```bash
+PROMPT='%n@%m %~ %# '
+```
+
+Bash uses `\u`, `\h`, `\w`, and `\$` for the same things, for example `PS1='\u@\h \w \$ '`.
+
+### Organising ~/.zshrc
+
+- Group related lines under a comment heading, such as `# aliases` or `# PATH`.
+- Put `export` lines for PATH and variables before the aliases that use them.
+- Reload after each change with `source ~/.zshrc`, or open a new terminal.
+
+### Safe changes
+
+```bash
+cp ~/.zshrc ~/.zshrc.bak
+nano ~/.zshrc
+```
+
+If the terminal breaks after an edit, start a shell without loading your config, restore the backup, and reload:
+
+```bash
+zsh -f
+cp ~/.zshrc.bak ~/.zshrc
+```
+
+### History settings
+
+| Variable | What it does | Example |
+|---|---|---|
+| `HISTSIZE` | Commands kept in memory for this session | `HISTSIZE=5000` |
+| `SAVEHIST` | Commands saved to the history file | `SAVEHIST=5000` |
+| `HISTFILE` | Where the history is saved | `HISTFILE=~/.zsh_history` |
+
 ## Practice
 
 Try the hands-on lab for this section: [Labs/24-environment-practice.md](../Labs/24-environment-practice.md)
