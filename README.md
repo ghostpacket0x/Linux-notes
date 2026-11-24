@@ -82,6 +82,10 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 
 This project is licensed under the [MIT License](LICENSE). You're free to use, copy, and change the notes, as long as the copyright notice stays with them.
 
+## Credit
+
+These notes are written by [ghostpacket0x](https://github.com/ghostpacket0x). If you use or share them, please keep this credit and link back to the original repository: https://github.com/ghostpacket0x/Linux-notes
+
 ## Practice
 
 Practice scenarios go in the [Labs](Labs/) folder. Each section also ends with a short practice task that uses its commands.
