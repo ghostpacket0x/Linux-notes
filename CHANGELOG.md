@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to these notes are recorded here, newest first. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project doesn't yet use version numbers.
+All notable changes to these notes are recorded here, newest first. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project uses [semantic versioning](https://semver.org/).
 
 ## [Unreleased]
 
@@ -34,7 +34,7 @@ All notable changes to these notes are recorded here, newest first. The format f
 - Section 2 redirection examples and the order explanation.
 - Lab 25 works whether or not `~/bin` is already in PATH.
 - Lab 27 expected results match what Git actually does.
-- Labs index entries and filenames.
+- Labs index now lists every lab and links to its section, with corrected filenames for labs 16 to 26.
 
 ## How to update this file
 
