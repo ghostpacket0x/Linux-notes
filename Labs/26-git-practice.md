@@ -1,4 +1,4 @@
-# Lab 27: Git basics
+# Lab 26: Git basics
 
 **Goal:** make a local repo, commit changes, create a branch, merge it, and ignore a file. This lab stays local and doesn't push anywhere.
 
