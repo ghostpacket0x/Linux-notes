@@ -6,6 +6,9 @@ Short definitions of terms used across the notes. Each term links to the section
 |---|---|---|
 | **Alias** | A short name for a longer command, for example `ll` for `ls -l` | [14](sections/14-shell-builtins-and-keywords.md) |
 | **Archive** | One file that holds many files, often compressed | [7](sections/07-archives-and-rsync.md) |
+| **Branch** | A separate line of work in Git | [25](sections/25-git-basics.md) |
+| **Commit** | A saved snapshot of changes in Git | [25](sections/25-git-basics.md) |
+| **Container** | A packaged program that runs in isolation from the rest of the system | [26](sections/26-docker-basics.md) |
 | **Cron** | A scheduler that runs commands at set times | [19](sections/19-cron-and-scheduled-tasks.md) |
 | **Daemon** | A background program that waits for requests. Often ends in `d`, such as `sshd` | [6](sections/06-services-and-logs.md) |
 | **Directory** | Another word for a folder | [1](sections/01-files-and-navigation.md) |
@@ -13,19 +16,24 @@ Short definitions of terms used across the notes. Each term links to the section
 | **Environment variable** | A named value that programs can read, such as `HOME` or `PATH` | [5](sections/05-processes-and-system.md) |
 | **Exit code** | A number a command returns when it finishes. `0` means success | [21](sections/21-bash-scripting.md) |
 | **Firewall** | Rules that decide which network connections a machine accepts | [20](sections/20-firewall-basics.md) |
+| **fstab** | The file that lists which file systems mount at boot | [27](sections/27-disks-and-mounts.md) |
 | **Glob** | A pattern with `*` or `?` that the shell expands into file names | [2](sections/02-text-and-viewing.md) |
+| **Image** | The template a container starts from | [26](sections/26-docker-basics.md) |
 | **Inode** | The record that stores a file's metadata, separate from its name | [1](sections/01-files-and-navigation.md) |
 | **Journal** | The log store that `systemd` writes, read with `journalctl` | [17](sections/17-logs-and-monitoring.md) |
 | **Kernel** | The core of the operating system that talks to the hardware | [5](sections/05-processes-and-system.md) |
 | **Key pair** | A private key you keep and a public key you share, used for SSH login | [18](sections/18-ssh-keys-and-config.md) |
+| **Mount point** | The folder where a disk or partition appears | [27](sections/27-disks-and-mounts.md) |
 | **Package** | A piece of software installed with a package manager | [4](sections/04-packages.md) |
 | **PATH** | The list of folders the shell searches for commands | [1](sections/01-files-and-navigation.md) |
 | **PID** | The process ID that Linux gives each running program | [5](sections/05-processes-and-system.md) |
 | **Permissions** | The read, write, and execute rights for owner, group, and others | [16](sections/16-permissions-and-ownership.md) |
 | **Pipe** | The `\|` symbol that sends one command's output into another | [2](sections/02-text-and-viewing.md) |
 | **Port** | A numbered door that a service listens on, such as 22 for SSH | [10](sections/10-networking.md) |
+| **PROMPT** | The variable that controls what your terminal prompt shows in zsh | [23](sections/23-environment-variables-and-path.md) |
 | **Process** | A running program | [5](sections/05-processes-and-system.md) |
 | **Redirection** | Sending output to a file with `>` or `>>`, or taking input with `<` | [2](sections/02-text-and-viewing.md) |
+| **Repository** | A project folder tracked by Git, with its full history | [25](sections/25-git-basics.md) |
 | **Root** | The administrator account, and the top folder `/` | [3](sections/03-users-and-groups.md) |
 | **Service** | A program that runs in the background, such as SSH | [6](sections/06-services-and-logs.md) |
 | **Shebang** | The `#!/bin/bash` line that tells Linux which shell runs a script | [21](sections/21-bash-scripting.md) |
@@ -39,5 +47,6 @@ Short definitions of terms used across the notes. Each term links to the section
 | **systemd** | The service manager that starts and stops services, controlled with `systemctl` | [6](sections/06-services-and-logs.md) |
 | **Terminal** | The window where you type commands | [11](sections/11-tmux.md) |
 | **tmux session** | A terminal session that keeps running after you close the window | [11](sections/11-tmux.md) |
+| **UUID** | A unique ID for a partition, more reliable than a device name for permanent mounts | [27](sections/27-disks-and-mounts.md) |
 | **VPN** | A secure tunnel to a private network, such as a Hack The Box lab | [13](sections/13-troubleshooting-log.md) |
 | **Wildcard** | Another name for a glob, such as `*.txt` | [2](sections/02-text-and-viewing.md) |
