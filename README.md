@@ -65,6 +65,8 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 23. [Environment variables and PATH](sections/23-environment-variables-and-path.md)
 24. [Backups and recovery](sections/24-backups-and-recovery.md)
 25. [Git basics](sections/25-git-basics.md)
+26. [Docker basics](sections/26-docker-basics.md)
+
 
 
 ## Glossary and contributing
