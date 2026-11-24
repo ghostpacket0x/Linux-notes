@@ -66,6 +66,7 @@ New to Linux? Read sections 1 and 2 first, then try the practice task at the end
 24. [Backups and recovery](sections/24-backups-and-recovery.md)
 25. [Git basics](sections/25-git-basics.md)
 26. [Docker basics](sections/26-docker-basics.md)
+27. [Disks and mounts](sections/27-disks-and-mounts.md)
 
 
 
