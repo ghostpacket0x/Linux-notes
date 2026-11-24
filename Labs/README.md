@@ -32,6 +32,7 @@ Hands-on practice for each section. Each lab has a goal, the steps, what to chec
 | [26 Git basics](26-git-practice.md) | [Section 25](../sections/25-git-basics.md) |
 | [27 Docker basics](27-docker-practice.md) | [Section 26](../sections/26-docker-basics.md) |
 | [28 Disks and mounts](28-disks-practice.md) | [Section 27](../sections/27-disks-and-mounts.md) |
+| [29 Reading manuals](29-manuals-practice.md) | [Section 28](../sections/28-reading-manuals-and-docs.md) |
 | [Games and challenges](games-and-challenges.md) | All sections |
 
 Use only systems you own or have permission to test. Never put passwords, flags, or lab answers in this folder.
