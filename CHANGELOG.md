@@ -4,7 +4,10 @@ All notable changes to these notes are recorded here, newest first. The format f
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-24
+
 ### Added
+- Writing your own systemd service, with a sample unit file and a lab (section 10, services).
 - Learning paths for beginners, help desk, system administration, defensive security, and developers ([LEARNING-PATHS.md](LEARNING-PATHS.md)).
 - Reading manuals and docs, with a lab ([section 28](sections/28-reading-manuals-and-docs.md)).
 - Disks and mounts, with a lab ([section 27](sections/27-disks-and-mounts.md)).
