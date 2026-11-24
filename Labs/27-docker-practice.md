@@ -1,4 +1,4 @@
-# Lab 28: Docker basics
+# Lab 27: Docker basics
 
 **Goal:** run a container, publish a port, read its logs, run a command inside it, then stop and remove it.
 
