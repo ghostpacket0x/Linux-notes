@@ -15,7 +15,7 @@ Start here if you've never used a terminal.
 7. [Environment variables and PATH](sections/23-environment-variables-and-path.md)
 8. [Troubleshooting log](sections/13-troubleshooting-log.md)
 
-**Time:** about 2 to 4 weeks at a few sessions a week.
+**Time:** about 1 to 2 weeks at a few sessions a week.
 
 ## Path 2: Help desk and IT support
 
