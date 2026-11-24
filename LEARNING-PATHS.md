@@ -9,9 +9,9 @@ Start here if you've never used a terminal.
 1. [Files and navigation](sections/01-files-and-navigation.md)
 2. [Viewing and editing text](sections/02-text-and-viewing.md), including redirection
 3. [Reading manuals and docs](sections/28-reading-manuals-and-docs.md)
-4. [Users and groups](sections/08-users-and-groups.md)
-5. [Packages](sections/09-packages.md)
-6. [Processes and system information](sections/04-processes-and-system.md)
+4. [Users and groups](sections/03-users-and-groups.md)
+5. [Packages](sections/04-packages.md)
+6. [Processes and system information](sections/05-processes-and-system.md)
 7. [Environment variables and PATH](sections/23-environment-variables-and-path.md)
 8. [Troubleshooting log](sections/13-troubleshooting-log.md)
 
@@ -23,9 +23,9 @@ For work that involves fixing user machines and answering "why isn't it working?
 
 1. [Files and navigation](sections/01-files-and-navigation.md)
 2. [Viewing and editing text](sections/02-text-and-viewing.md)
-3. [Users and groups](sections/08-users-and-groups.md)
-4. [Packages](sections/09-packages.md)
-5. [Processes and system information](sections/04-processes-and-system.md)
+3. [Users and groups](sections/03-users-and-groups.md)
+4. [Packages](sections/04-packages.md)
+5. [Processes and system information](sections/05-processes-and-system.md)
 6. [Networking](sections/10-networking.md)
 7. [Logs and monitoring](sections/17-logs-and-monitoring.md)
 8. [Disks and mounts](sections/27-disks-and-mounts.md)
@@ -40,10 +40,10 @@ For running and maintaining Linux servers or lab machines.
 
 1. [Files and navigation](sections/01-files-and-navigation.md)
 2. [Viewing and editing text](sections/02-text-and-viewing.md)
-3. [Users and groups](sections/08-users-and-groups.md)
+3. [Users and groups](sections/03-users-and-groups.md)
 4. [Permissions and ownership](sections/16-permissions-and-ownership.md)
-5. [Packages](sections/09-packages.md)
-6. [Services and logs](sections/10-services-and-logs.md)
+5. [Packages](sections/05-packages.md)
+6. [Services and logs](sections/06-services-and-logs.md)
 7. [Disks and mounts](sections/27-disks-and-mounts.md)
 8. [Cron and scheduled tasks](sections/19-cron-and-scheduled-tasks.md)
 9. [SSH keys and configuration](sections/18-ssh-keys-and-config.md)
@@ -59,7 +59,7 @@ For monitoring systems and spotting unusual activity. This path is about defence
 
 1. [Files and navigation](sections/01-files-and-navigation.md)
 2. [Viewing and editing text](sections/02-text-and-viewing.md)
-3. [Processes and system information](sections/04-processes-and-system.md)
+3. [Processes and system information](sections/05-processes-and-system.md)
 4. [Networking](sections/10-networking.md)
 5. [Logs and monitoring](sections/17-logs-and-monitoring.md)
 6. [Permissions and ownership](sections/16-permissions-and-ownership.md)
