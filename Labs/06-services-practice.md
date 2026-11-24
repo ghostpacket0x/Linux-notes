@@ -1,4 +1,4 @@
-# Lab 10: Services and logs
+# Lab 6: Services and logs
 
 **Goal:** read the last few log lines for a service, then check its status.
 
